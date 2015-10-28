@@ -16,3 +16,5 @@ connect: MAX7219 Matrix
     4	CS	Chip Select	  24	GPIO 8 (SPI CE0)
     5	CLK	Clock	        23	GPIO 11 (SPI CLK)
     
+    assign your inputs in config file
+    
